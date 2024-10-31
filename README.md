@@ -1,10 +1,9 @@
-## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+## JusticeBot: A Virtual Legal Assistant
+The JusticeBot is an innovative Retrieval-Augmented Generation (RAG) based chatbot designed to revolutionize legal information access on Justice Department. Leveraging advanced language models and cutting-edge AI technologies, the JusticeBot facilitates immediate, accurate, and user-friendly guidance across various legal and judicial services. It streamlines complex procedures by providing detailed explanations and step-by-step instructions, ensuring users can efficiently navigate their legal needs.
 
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+JusticeBot, a Retrieval-Augmented Generation (RAG) based chatbot, is designed to enhance user experience by offering instant access to various eCourt services, including case searches, hearing schedules, court orders, and payment processes for fines. It further simplifies access to citizen services by delivering clear and concise guidance on legal aid, petition filing, and traffic violation settlements. Additionally, the chatbot promotes transparency in the judicial system by facilitating the live streaming of court cases, while ensuring 24/7 availability of crucial legal information.
+Utilizing ChromaDB for efficient data management and data retrieval and AWS infrastructure for scalable and cost-effective deployment, the JusticeBot is built for cost-efficiency and future expansion, with capabilities for Reinforcement Learning with Human Feedback (RLHF) and potential multilingual support. Despite challenges such as local LLM limitations and the complexity of processing large legal documents, the JusticeBot promises significant social, economic, and environmental benefits by promoting legal awareness, reducing operational costs, and minimizing paper usage, the JusticeBot empowers users, fostering confidence and equitable access to justice.
 
 ## Features
 <!--List the features of the project as shown below-->
@@ -51,8 +50,11 @@ The Sign Language Detection System enhances accessibility for individuals with h
 This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+1. Lakshmi Priya Grlamudiveti and Dr. Sagee Geetha Sethu, “ROLE OF ARTIFICIAL INTELLIGENCE IN THE INDIAN JUDICIAL SYSTEM” in 2023 international conference on computational intelligence and knowledge economy (iccike), march 9-10, 2023, amity university Dubai, UAE
+
+2. Gulimila Aini, “A SUMMARY OF THE RESEARCH ON THE JUDICIAL APPLICATION OF ARTIFICIAL INTELLIGENCE”, 2020 - Beijing normal university law school, Beijing, China
+
+3. Dr. Hemlata Sharma, Aakanksha, “ARTIFICIAL INTELLIGENCE AND LAW: AN EFFECTIVE AND EFFICIENT INSTRUMENT” in 2021 9th international conference on reliability, infocom technologies and optimization (trends and future directions) (icrito) amity university, Noida, India. Sep 3-4, 2021
 
 
 
