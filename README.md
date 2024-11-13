@@ -1,4 +1,4 @@
-## JusticeBot: A Virtual Legal Assistant
+## JusticeBot : A Virtual Legal Assistant
 The JusticeBot is an innovative Retrieval-Augmented Generation (RAG) based chatbot designed to revolutionize legal information access on Justice Department. Leveraging advanced language models and cutting-edge AI technologies, the JusticeBot facilitates immediate, accurate, and user-friendly guidance across various legal and judicial services. It streamlines complex procedures by providing detailed explanations and step-by-step instructions, ensuring users can efficiently navigate their legal needs.
 
 ## About
