@@ -26,7 +26,7 @@ Utilizing ChromaDB for efficient data management and data retrieval and AWS infr
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+![389004082-10fc8392-7909-48b3-8c82-9ba6d7a7e755](https://github.com/user-attachments/assets/1f808e0b-3839-40cc-871c-d7b025208b56)
 
 
 ## Output
@@ -34,10 +34,12 @@ Utilizing ChromaDB for efficient data management and data retrieval and AWS infr
 <!--Embed the Output picture at respective places as shown below as shown below-->
 #### Output1 - Name of the output
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+![397811074-daa78ac0-1414-4d2a-9762-b155de60f29c](https://github.com/user-attachments/assets/6e944364-15bd-49dd-8293-acad4ec41303)
 
 #### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+
+![397811263-9b06fa38-b139-4cb5-bc3b-bdef9214abd9](https://github.com/user-attachments/assets/144691a5-6342-4c16-9d74-3b81d500e75a)
+
 
 Detection Accuracy: 96.7%
 Note: These metrics can be customized based on your actual performance evaluations.
