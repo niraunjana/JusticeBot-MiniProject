@@ -47,16 +47,20 @@ Note: These metrics can be customized based on your actual performance evaluatio
 
 ## Results and Impact
 <!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
+The evaluation of JusticeBot highlights its performance in addressing legal queries with a focus on three key metrics: accuracy, response time, and user satisfaction. These insights showcase its ability to deliver reliable, efficient, and user- centric solutions for legal information retrieval.
 
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+    1. Accuracy JusticeBot effectively responded to a diverse range of legal queries by leveraging the combined strengths of Retrieval-Augmented Generation (RAG) and the Gemini Pro model. Its ability to provide precise and contextually relevant answers was particularly evident in areas with well-defined legal structures, such as family law, property disputes, and general legal procedures. While JusticeBot performed well across most scenarios, it occasionally encountered challenges with ambiguous or highly complex legal issues. These instances highlighted areas for future improvement, particularly in fine-tuning its ability to interpret nuanced questions. The integration of advanced retrieval mechanisms ensured that even multi-layered queries were addressed with a high level of accuracy.
+    2. Response Time JusticeBot demonstrated excellent effi- ciency in generating responses, with minimal delays observed during query processing. Its architecture, designed to opti- mize retrieval and generation tasks, allowed users to receive information quickly and seamlessly. The system maintained consistent performance, even during high-demand periods, ensuring a reliable experience for users. The quick response time proved beneficial in scenarios requiring urgent legal guidance. Users noted that the chatbot’s ability to retrieve and present information promptly made it a practical tool for both routine inquiries and time-sensitive legal matters.
+
+JusticeBot excelled in delivering accurate and timely legal information, with a strong emphasis on user-friendly interactions. It was particularly effective in guiding users through commonly encountered legal issues, providing both procedural clarity and relevant case insights.
 
 ## Articles published / References
-1. Lakshmi Priya Grlamudiveti and Dr. Sagee Geetha Sethu, “ROLE OF ARTIFICIAL INTELLIGENCE IN THE INDIAN JUDICIAL SYSTEM” in 2023 international conference on computational intelligence and knowledge economy (iccike), march 9-10, 2023, amity university Dubai, UAE
 
-2. Gulimila Aini, “A SUMMARY OF THE RESEARCH ON THE JUDICIAL APPLICATION OF ARTIFICIAL INTELLIGENCE”, 2020 - Beijing normal university law school, Beijing, China
-
-3. Dr. Hemlata Sharma, Aakanksha, “ARTIFICIAL INTELLIGENCE AND LAW: AN EFFECTIVE AND EFFICIENT INSTRUMENT” in 2021 9th international conference on reliability, infocom technologies and optimization (trends and future directions) (icrito) amity university, Noida, India. Sep 3-4, 2021
+   1.  S. Adhikari, “Using BERT embeddings for intelligent legal document retrieval,” Journal of AI and Law, vol. 8, no. 4, pp. 233–245, 2022.
+   2.  R, Anitha., N, Kishore., Vijay Anand, M. ”NextGen Dynamic Video Generator using AI.” 2023 9th International Conference on Smart Struc- tures and Systems (ICSSS), Saveetha Engineering College, Chennai, India. IEEE, 2023.
+   3.  N. Alemzadeh, “AI-powered legal assistants: Bridging the gap in access to justice,” in International Conference on Social Computing, 2021.
+   4.  Ramyadevi, R., Sasidharan, G. ”Cogniwealth: Revolutionizing Finance, Empowering Investors, and Shaping the Future of Wealth Management.” 2024 International Conference on Computing, Power, and Communica- tion Technologies (IC2PCT), Saveetha Engineering College, 
+       Chennai, India. IEEE, 2024.
 
 
 
