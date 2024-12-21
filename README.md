@@ -47,12 +47,8 @@ Note: These metrics can be customized based on your actual performance evaluatio
 
 ## Results and Impact
 <!--Give the results and impact as shown below-->
-The evaluation of JusticeBot highlights its performance in addressing legal queries with a focus on three key metrics: accuracy, response time, and user satisfaction. These insights showcase its ability to deliver reliable, efficient, and user- centric solutions for legal information retrieval.
+![image](https://github.com/user-attachments/assets/e56fa583-a1a2-48ef-8363-9683d7977ca1)
 
-    1. Accuracy JusticeBot effectively responded to a diverse range of legal queries by leveraging the combined strengths of Retrieval-Augmented Generation (RAG) and the Gemini Pro model. Its ability to provide precise and contextually relevant answers was particularly evident in areas with well-defined legal structures, such as family law, property disputes, and general legal procedures. While JusticeBot performed well across most scenarios, it occasionally encountered challenges with ambiguous or highly complex legal issues. These instances highlighted areas for future improvement, particularly in fine-tuning its ability to interpret nuanced questions. The integration of advanced retrieval mechanisms ensured that even multi-layered queries were addressed with a high level of accuracy.
-    2. Response Time JusticeBot demonstrated excellent effi- ciency in generating responses, with minimal delays observed during query processing. Its architecture, designed to opti- mize retrieval and generation tasks, allowed users to receive information quickly and seamlessly. The system maintained consistent performance, even during high-demand periods, ensuring a reliable experience for users. The quick response time proved beneficial in scenarios requiring urgent legal guidance. Users noted that the chatbot’s ability to retrieve and present information promptly made it a practical tool for both routine inquiries and time-sensitive legal matters.
-
-JusticeBot excelled in delivering accurate and timely legal information, with a strong emphasis on user-friendly interactions. It was particularly effective in guiding users through commonly encountered legal issues, providing both procedural clarity and relevant case insights.
 
 ## Articles published / References
 
